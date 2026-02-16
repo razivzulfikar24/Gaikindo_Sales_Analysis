@@ -4,7 +4,7 @@ Proyek ini merupakan analisis terhadap industri otomotif Indonesia menggunakan d
 
 ---
 
-## 📊 Project Insights (Temuan Utama)
+## 📊 Project Insights
 
 <p align="center">
   <a href="https://www.canva.com/design/DAHBFhTpIgc/IIsiKXPH_gUbgwphTpbv2Q/view?utm_content=DAHBFhTpIgc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86ebdf9169">
