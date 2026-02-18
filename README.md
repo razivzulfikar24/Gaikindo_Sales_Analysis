@@ -30,7 +30,7 @@ Berdasarkan analisis data dari tahun 2022 hingga 2025, ditemukan beberapa pola k
 <p align="center">
   <img src="Pics/dashboard_preview.gif" width="800"/>
   <br>
-  <i>Preview Dashboard Page 1</i>
+  <i>Dashboard Preview</i>
 </p>
 
 <table align="center">
