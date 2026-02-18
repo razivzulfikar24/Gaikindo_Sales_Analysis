@@ -1,3 +1,4 @@
 *.pyc
 .env
 Datasets/Raw/
+dashboard_preview.mp4
