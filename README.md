@@ -2,6 +2,8 @@
 
 Proyek ini merupakan analisis terhadap industri otomotif Indonesia menggunakan data mentah dari **GAIKINDO**. Melalui proses *end-to-end data analytics*, proyek ini membahas tren pasar, performa brand, hingga transisi energi kendaraan listrik (EV) di tingkat nasional. Selain itu pada proyek ini juga dibuatn **Interactive Dashboard** untuk analisisn dan monitoring lebih detail.
 
+Raw Data : https://www.gaikindo.or.id/indonesian-automobile-industry-data/
+
 ---
 
 ## 📊 Project Insights
