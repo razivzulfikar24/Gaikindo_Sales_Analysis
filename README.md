@@ -28,16 +28,26 @@ Berdasarkan analisis data dari tahun 2022 hingga 2025, ditemukan beberapa pola k
 ## 🖥️ Fitur Dashboard (Power BI)
 
 <p align="center">
-  <img src="Pics/%5BPreview%5D%20Dashboard%20Page%201.png" width="800">
+  <img src="Pics/dashboard_preview.gif" width="800"/>
   <br>
-  <i>Preview Dashboard Page 1</i>
+  <i>Dashboard Preview</i>
 </p>
 
-<p align="center">
-  <img src="Pics/%5BPreview%5D%20Dashboard%20Page%202.png" width="800">
-  <br>
-  <i>Preview Dashboard Page 2</i>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Pics/%5BPreview%5D%20Dashboard%20Page%201.png" width="400"/><br>
+      <i>Dashboard Page 1</i>
+    </td>
+    <td align="center">
+      <img src="Pics/%5BPreview%5D%20Dashboard%20Page%202.png" width="400"/><br>
+      <i>Dashboard Page 2</i>
+    </td>
+  </tr>
+</table>
+
+
+
 
 Dashboard interaktif ini dirancang untuk memberikan business insight secara cepat melalui fitur-fitur berikut:
 
